@@ -62,4 +62,4 @@ const displayMealDetails = meal =>{
 
 }
 
-loadMeal('');
+// loadMeal('');
